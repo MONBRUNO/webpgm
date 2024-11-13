@@ -1,1 +1,2 @@
-#9월 24일 수업내용
+#9월 24일 과제
+https://github.com/MONBRUNO/web-project-2
